@@ -18,7 +18,7 @@ body {
 .container {
     max-width: 960px;
     margin: auto;
-    overflow: 
+    overflow: hidden;
     padding: 0 3rem;
 }
 
@@ -59,7 +59,7 @@ body {
 
 btn {
     display: inline-block;
-    boreder: none;
+    border: none;
     background-color: var(--primary-color);
     color: #fff;
     padding: 0.75rem 1.5rem;
